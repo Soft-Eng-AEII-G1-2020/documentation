@@ -1,0 +1,7 @@
+# ignore everything
+*
+
+# keep those files and filetypes
+!.gitignore
+!*.pdf
+!*.md
