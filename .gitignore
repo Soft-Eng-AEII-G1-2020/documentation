@@ -2,6 +2,10 @@
 *
 
 # keep those files and filetypes
+!*.tex
+!*.txt
+!*.bib
+!*.eps
 !.gitignore
 !*.pdf
 !*.md
